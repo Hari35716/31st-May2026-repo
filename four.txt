@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 12344
 uper k commment chutiye types ha i
+=======
+>>>>>>> 691e69c5ce254c6674e83b2ac1a48d552098e2df
 
