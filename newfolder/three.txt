@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hellow world- band karo bakchodi---done changes on development branch
+=======
+hellow world--1st staging
+>>>>>>> staging
