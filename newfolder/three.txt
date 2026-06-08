@@ -4,3 +4,4 @@ hellow world- band karo bakchodi---done changes on development branch
 hellow world--1st staging
 >>>>>>> staging
 changed the file in remote repo of git 
+again change-1
